@@ -1,10 +1,8 @@
 ---
-title: "Quarto Website"
+title: "Sean Liu Personal Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is Sean Liu's personal website. I am currently a fourth year full time student at the University of Toronto. 
 
 ```{r}
 1 + 1
